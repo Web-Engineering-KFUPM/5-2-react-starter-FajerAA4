@@ -45,3 +45,22 @@
 }
 
 /* Add your custom styles below */
+
+.cards-container h3 {
+    background-color: #4a67d6;
+    color: #ffffff;
+    padding: 0.5rem;
+    margin: 0 0 0.5rem 0;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.cards-container p {
+    background-color: #eef2ff;
+    color: #333333;
+    padding: 0.4rem 0.6rem;
+    margin: 0.3rem 0;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
